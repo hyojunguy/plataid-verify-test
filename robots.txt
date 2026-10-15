@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyojunguy.github.io/plataid-verify-test/sitemap.xml
